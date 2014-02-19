@@ -1,1 +1,3 @@
 var Config = {}
+
+var User = {}
