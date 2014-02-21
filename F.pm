@@ -7,7 +7,7 @@ ALALAa
 
 
 
-use constant ASSETS_VERSION => 10934;
+use constant ASSETS_VERSION => 10935;
 
 
 LALALA
